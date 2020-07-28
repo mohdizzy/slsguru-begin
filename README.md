@@ -1,2 +1,0 @@
-# slsguru-begin
-Begin app
