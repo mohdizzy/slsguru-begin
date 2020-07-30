@@ -18,13 +18,16 @@ let body = `
 
     <h1 class="center-text">
       <!-- ↓ Change "Hello world!" to something else and head on back to Begin! -->
-      Hello Mohammed!
+      Hello Serverless Guru!
     </h1>
 
     <p class="center-text">
       Your <a href="https://begin.com" class="link" target="_blank">Begin</a> app is ready to go!
     </p>
 
+    <div align="center">
+    <a method="get" href="/weather?city=New York">Get Weather</a>
+    </div>
   </body>
 </html>
 `
